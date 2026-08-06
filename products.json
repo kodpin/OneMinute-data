@@ -9,5 +9,7 @@
       "category": "tactical"
     }
   ],
-  "settings": {}
+  "settings": {
+    "manager_telegram": "https://t.me/Robottqq"
+  }
 }
