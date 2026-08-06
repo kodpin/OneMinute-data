@@ -10,6 +10,13 @@
     }
   ],
   "settings": {
-    "manager_telegram": "https://t.me/Robottqq"
+    "manager_telegram": "https://t.me/Robottqq",
+    "categories": [
+      "tactical",
+      "travel",
+      "running",
+      "diving",
+      "run"
+    ]
   }
 }
