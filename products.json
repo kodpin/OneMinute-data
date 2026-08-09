@@ -9,6 +9,16 @@
       "category": "tactical",
       "discount_percent": 50,
       "discount_end": "2026-8-9"
+    },
+    {
+      "id": 2,
+      "name": "Кукуруза",
+      "price": 100,
+      "description": "Сладкая",
+      "image": "https://i.imgur.com/x8Rh3WO.jpeg",
+      "category": "tactical",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
