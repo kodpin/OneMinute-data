@@ -9,6 +9,19 @@
       "category": "tactical",
       "discount_percent": 50,
       "discount_end": "2026-8-9"
+    },
+    {
+      "id": 2,
+      "name": "Кук",
+      "price": 44,
+      "description": "Ррв",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1786287204.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786287206.jpg"
+      ],
+      "category": "tactical",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
