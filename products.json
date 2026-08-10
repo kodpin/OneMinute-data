@@ -22,6 +22,22 @@
       "category": "tactical",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 3,
+      "name": "tactix 8 - 51 мм, AMOLED",
+      "price": 140904,
+      "description": "Поднимитесь на новый уровень с tactix 8. Эти превосходные тактические смарт-часы включают отличный дисплей AMOLED, титановое кольцо вокруг циферблата, сапфировое стекло и водонепроницаемость на глубине до 40 метров.\n\n\nЯркий и четкий дисплей AMOLED\n\nДо 29 дней работы от батареи в режиме смарт-часов\n\nСпециальные тактические функции, включая режим «ходьба с рюкзаком» и программу Applied Ballistics® (прикладная баллистика)\n\nЯркий встроенный светодиодный фонарик (несколько цветов)\n\nВодонепроницаемость на глубине до 40 метров\n\nДинамик и микрофон для передачи голосовых сообщений1 и управления",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1786355686.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786355688.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786355690.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786355691.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786355693.jpg"
+      ],
+      "category": "tactical",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
