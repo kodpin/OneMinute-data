@@ -68,6 +68,25 @@
       "category": "Для жизни",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 6,
+      "name": "Venu 4 - 41 мм, лунно-золотистый с силиконовым ремешком цвета слоновой кости",
+      "price": 67534,
+      "description": "Venu 4 - 41 мм, лунно-золотистый с силиконовым ремешком цвета слоновой кости",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1786361869.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786361871.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786361872.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786361874.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786361876.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786361878.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786361880.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786361881.jpg"
+      ],
+      "category": "Для жизни",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
