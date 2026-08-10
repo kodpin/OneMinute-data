@@ -32,6 +32,24 @@
       "category": "tactical",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 4,
+      "name": "fenix E - 47 мм, AMOLED, серый безель, черный силиконовый ремешок",
+      "price": 64177,
+      "description": "ОДИН ЖЕСТКИЙ ТРЕНЕР\nС мощными спортивными GPS-часами fēnix E вы справитесь с самыми сложными спортивными испытаниями или тренировками на свежем воздухе. Повысьте выносливость и работоспособность своего организма с помощью таких важных функций, как расширенные силовые тренировки, круглосуточный мониторинг состояния здоровья и самочувствия, динамическая маршрутизация туда и обратно и многое другое.\nДО 16 ДНЕЙ РАБОТЫ ОТ АККУМУЛЯТОРА В РЕЖИМЕ СМАРТЧАСОВ\nСиловые тренировки для конкретных видов спорта\n24/7 сервис для здоровья и хорошего самочувствия\nЯркий, чёткий AMOLED-дисплей с рамкой из нержавеющей стали\nНАСЛАЖДАЙТЕСЬ СВОБОДОЙ ДИНАМИЧЕСКОЙ МАРШРУТИЗАЦИИ\nНАВИГАЦИЯ С ПОМОЩЬЮ ТОЧНЫХ МУЛЬТИ-GNSS-ДАТЧИКОВ И ДАТЧИКОВ ABC",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1786358029.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786358031.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786358033.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786358035.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786358037.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786358038.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786358040.jpg"
+      ],
+      "category": "running",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
