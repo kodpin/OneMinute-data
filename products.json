@@ -275,6 +275,23 @@
       "category": "Спорт",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 18,
+      "name": "Forerunner 570 - 47мм, шиферно-серый, алюминиевый безель, черный ремешок",
+      "price": 59576,
+      "description": "Алюминиевый корпус цвета «серый сланец» с полупрозрачной чёрной полосойЯркий 1,4-дюймовый AMOLED-дисплей\nДО 18 ЧАСОВ РАБОТЫ ОТ АККУМУЛЯТОРА В РЕЖИМЕ GPS\nРасширенные возможности тренировки и восстановления\nТехнология SATIQ™ и многодиапазонный GPS\nЛЕГКАЯ АЛЮМИНИЕВАЯ РАМКА\nМУЗЫКА НА ВАШЕМ ЗАПЯСТЬЕ",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1786471357.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786471359.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786471361.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786471363.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786471365.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786471367.jpg"
+      ],
+      "category": "Спорт",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
