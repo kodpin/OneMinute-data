@@ -190,6 +190,23 @@
       "category": "Для жизни",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 13,
+      "name": "Forerunner 570 - 42мм, светло-серый, алюминиевый безель, облачно-голубой ремешок",
+      "price": 57900,
+      "description": "Алюминиевый корпус Cloud Blue с полупрозрачным белым камнем/полоской Cloud Blue Яркий 1,2-дюймовый AMOLED-дисплей\nДО 18 ЧАСОВ РАБОТЫ ОТ АККУМУЛЯТОРА В РЕЖИМЕ GPS\nРасширенные возможности тренировки и восстановления\nТехнология SATIQ™ и многодиапазонный GPS\nЛЕГКАЯ АЛЮМИНИЕВАЯ РАМКА\nМУЗЫКА НА ВАШЕМ ЗАПЯСТЬЕ",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1786445401.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786445403.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786445405.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786445406.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786445408.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786445410.jpg"
+      ],
+      "category": "Спорт",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
