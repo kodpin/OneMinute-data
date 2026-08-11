@@ -122,6 +122,23 @@
       "category": "Для жизни",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 9,
+      "name": "Venu 4 - 45 мм, темно-серый с коричневым кожаным ремешком",
+      "price": 73300,
+      "description": "Умные часы Venu 4 с GPS-приемником, включающие продвинутые функции для наблюдения за здоровьем и занятия спортом, помогут вам лучшие понимать собственный организм и принимать более здоровые решения.\n\n\nЯркий цветной дисплей AMOLED 1,4”\n\nДо 12 дней работы от батареи в режиме умных часов\n\nПродвинутые функции для здоровья и спорта\n\nЛегкий корпус 45 мм с металлическим дизайном\n\nРаботает с приложением Garmin Connect на смартфонах iPhone и Android\n\nЯркий светодиодный фонарик",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1786443745.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786443746.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786443748.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786443750.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786443752.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786443753.jpg"
+      ],
+      "category": "Для жизни",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
