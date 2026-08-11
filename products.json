@@ -207,6 +207,23 @@
       "category": "Спорт",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 14,
+      "name": "Forerunner 570 - 42мм, слоновая кость, алюминиевый безель малинового цвета, ремешок манго/слоновая кость",
+      "price": 57901,
+      "description": "Малиновый алюминий с полупрозрачной вставкой цвета кости/манго\nЯркий 1,2-дюймовый AMOLED-дисплей\nДО 18 ЧАСОВ РАБОТЫ ОТ АККУМУЛЯТОРА В РЕЖИМЕ GPS\nРасширенные возможности тренировки и восстановления\nТехнология SATIQ и многодиапазонный GPS\nЛЕГКАЯ АЛЮМИНИЕВАЯ РАМКА\nМУЗЫКА НА ВАШЕМ ЗАПЯСТЬЕ",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1786445620.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786445622.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786445624.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786445626.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786445628.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786445630.jpg"
+      ],
+      "category": "Спорт",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
