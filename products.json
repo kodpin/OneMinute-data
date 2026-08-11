@@ -309,6 +309,22 @@
       "category": "Для жизни",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 20,
+      "name": "Vivoactive 6 темно-серые с черным ремешком",
+      "price": 33670,
+      "description": "Модель vivoactive 6 с периодом работы батареи до 11 дней позволяют вам получить более полную картину здоровья\nЯРКИЙ AMOLED-ДИСПЛЕЙ\nДО 11 ДНЕЙ РАБОТЫ ОТ АККУМУЛЯТОРА\nМОНИТОРИНГ ЭНЕРГИИ BODY BATTERY™, ОЦЕНКА КАЧЕСТВА СНА, ОТСЛЕЖИВАНИЕ СТРЕССА И МНОГОЕ ДРУГОЕ\nРАСШИРЕННЫЕ ВОЗМОЖНОСТИ ДЛЯ ЗАНЯТИЙ ФИТНЕСОМ\nРАБОТАЕТ С ПРИЛОЖЕНИЕМ GARMIN CONNECT™ НА СМАРТФОНАХ iPHONE® И ANDROID™\nУМНЫЕ УВЕДОМЛЕНИЯ, БЕСКОНТАКТНЫЕ ПЛАТЕЖИ GARMIN PAY™ И ХРАНИЛИЩЕ МУЗЫКИ",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1786472377.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786472379.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786472381.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786472383.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786472384.jpg"
+      ],
+      "category": "Для жизни",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
