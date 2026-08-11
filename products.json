@@ -87,6 +87,24 @@
       "category": "Для жизни",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 7,
+      "name": "Venu 4 - 41 мм, серебристый с сиренево-голубым ремешком",
+      "price": 63216,
+      "description": "Умные часы Venu 4 с GPS и расширенными функциями для контроля состояния здоровья и физической формы — это ваш помощник на запястье, который поможет вам лучше понимать свой организм и принимать более здоровые решения.\nЯркий, красочный 1,2-дюймовый AMOLED-дисплей\nДО 10 ДНЕЙ РАБОТЫ ОТ АККУМУЛЯТОРА В РЕЖИМЕ СМАРТЧАСОВ\nРАСШИРЕННЫЕ ВОЗМОЖНОСТИ ДЛЯ ЗДОРОВЬЯ И ФИЗИЧЕСКОЙ АКТИВНОСТИ\nЛЕГКИЙ КОРПУС ИЗ МЕТАЛЛА ДИАМЕТРОМ 41 ММ\nРАБОТАЕТ С ПРИЛОЖЕНИЕМ GARMIN CONNECT НА СМАРТФОНАХ iPHONE И ANDROID\nЯРКИЙ СВЕТОДИОДНЫЙ ФОНАРИК",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1786438332.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786438334.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786438336.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786438338.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786438339.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786438341.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786438343.jpg"
+      ],
+      "category": "Для жизни",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
