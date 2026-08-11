@@ -342,6 +342,23 @@
       "category": "Для жизни",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 22,
+      "name": "Vivoactive 6 яшмовый с зеленым ремешком",
+      "price": 34366,
+      "description": "Модель vivoactive 6 с периодом работы батареи до 11 дней позволяют вам получить более полную картину здоровья.\nЛУЧШЕ ПОНИМАЙТЕ СВОЙ ОРГАНИЗМ\nУмные часы vívoactive 6 с ярким цветным дисплеем, временем автономной работы до 11 дней и специализированными функциями для отслеживания состояния здоровья и физической формы предоставляют инструменты и аналитические данные, которые помогут вам лучше узнать свой организм.\nЯРКИЙ AMOLED-ДИСПЛЕЙ\nДО 11 ДНЕЙ РАБОТЫ ОТ АККУМУЛЯТОРА\nМОНИТОРИНГ ЭНЕРГИИ BODY BATTERY™, ОЦЕНКА КАЧЕСТВА СНА, ОТСЛЕЖИВАНИЕ СТРЕССА И МНОГОЕ ДРУГОЕ\nРАСШИРЕННЫЕ ВОЗМОЖНОСТИ ДЛЯ ЗАНЯТИЙ ФИТНЕСОМ\nРАБОТАЕТ С ПРИЛОЖЕНИЕМ GARMIN CONNECT™ НА СМАРТФОНАХ iPHONE® И ANDROID™\nУМНЫЕ УВЕДОМЛЕНИЯ, БЕСКОНТАКТНЫЕ ПЛАТЕЖИ GARMIN PAY™ И ХРАНИЛИЩЕ МУЗЫКИ",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1786473264.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786473266.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786473268.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786473270.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786473272.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1786473274.jpg"
+      ],
+      "category": "Для жизни",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
