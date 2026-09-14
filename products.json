@@ -408,6 +408,22 @@
       "category": "спорт",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 26,
+      "name": "Forerunner 170 белый с облачно-голубым ремешком",
+      "price": 32103,
+      "description": "GARMIN\n\nForerunner 170 белый с облачно-голубым ремешком\nБелый/облачно-голубой ремешок\nАртикул: 010-03920-01\n32 120 ₽\n36 500 ₽\nВерсия\nБез музыки\nС музыкой\nМодель/Цвет\n\n\n\n\n\n\nКупить\nВыбрать магазин\nОБЗОР\nForerunner 170\n\nЗаявите всем о своем увлечении бегом\nForerunner 170 – это специальные смарт-часы для бега с GPS, включающие персонализированные беговые планы для новичков и расширенные тренировочные показатели, которые помогут вам в достижении поставленных целей.\n\n\nЦветной сенсорный AMOLED-дисплей 1,2”\n\nПериод работы без подзарядки батареи до 10 дней в режиме смарт-часов\n\nПродвинутые тренировочные данные и информация о восстановлении\n\nПерсонализированные планы тренировок «Тренер Гармин»\n\nБолее 80 встроенных спортивных приложений\n\nИнтеллектуальные оповещения и бесконтактные платежи Garmin PayTM",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1789379337.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789379339.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789379341.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789379343.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789379344.jpg"
+      ],
+      "category": "спорт",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
