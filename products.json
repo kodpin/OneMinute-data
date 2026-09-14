@@ -359,6 +359,23 @@
       "category": "для жизни",
       "discount_percent": 10,
       "discount_end": "2026-08-31"
+    },
+    {
+      "id": 23,
+      "name": "Forerunner 165 Music зеленый\nMusic Бирюзовый/Голубой",
+      "price": 38004,
+      "description": "Великолепная тренировка\nВы не просто бегаете. Вы вышли на новый уровень. Именно поэтому вам нужны часы Forerunner 165 — специализированные GPS-часы для бега, которые помогают достигать целей с помощью персонализированных адаптивных планов тренировок и яркого дисплея, на котором отображается ваш прогресс.\n1,2-дюймовый цветной AMOLED-дисплей\nДО 11 ДНЕЙ РАБОТЫ ОТ АККУМУЛЯТОРА В РЕЖИМЕ СМАРТЧАСОВ\nПоказатели эффективности тренировок и восстановления\nБолее 25 встроенных приложений для GPS и занятий спортом в помещении\nСенсорный экран и кнопки\nВСТРОЕННЫЙ GPS ДЛЯ ИЗМЕРЕНИЯ ВРЕМЕНИ, РАССТОЯНИЯ, ТЕМПА И СКОРОСТИ",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1789378559.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789378560.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789378563.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789378565.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789378567.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789378569.jpg"
+      ],
+      "category": "спорт",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
