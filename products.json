@@ -597,6 +597,25 @@
       "category": "тактические",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 37,
+      "name": "Instinct 3 - 45mm AMOLED черно-синий",
+      "price": 53211,
+      "description": "Металлическая рамка\nЯркий и насыщенный AMOLED-дисплей\n24/7 мониторинг здоровья и самочувствия\nОСВЕТИТЕ ПРОСТРАНСТВО\nВСТРОЕННЫЙ ФОНАРИК\n\nМНОГОДИАПАЗОННЫЙ GPS С ТЕХНОЛОГИЕЙ SATIQ\n\nInstinct 3 — это защищённые смарт-часы с GPS, которые можно носить в любых условиях. Следуйте за ними, куда бы вас ни привело приключение.\nЯркий 1,2-дюймовый AMOLED-дисплей\nДО 18 ДНЕЙ РАБОТЫ ОТ АККУМУЛЯТОРА В РЕЖИМЕ СМАРТЧАСОВ\nПОДРОБНАЯ ИНФОРМАЦИЯ О ЗДОРОВЬЕ И САМОЧУВСТВИИ\nИНТЕЛЛЕКТУАЛЬНЫЕ УВЕДОМЛЕНИЯ1\nВСТРОЕННЫЙ ФОНАРИК\nПРОЧНАЯ КОНСТРУКЦИЯ",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1789388707.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789388709.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789388711.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789388713.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789388715.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789388717.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789388718.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789388721.jpg"
+      ],
+      "category": "тактические",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
