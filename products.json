@@ -376,6 +376,22 @@
       "category": "спорт",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 24,
+      "name": "Forerunner 170 черный с черно-желтым ремешком",
+      "price": 32020,
+      "description": "Forerunner 170 – это специальные смарт-часы для бега с GPS, включающие персонализированные беговые планы для новичков и расширенные тренировочные показатели, которые помогут вам в достижении поставленных целей.\n\n\nЦветной сенсорный AMOLED-дисплей 1,2”\n\nПериод работы без подзарядки батареи до 10 дней в режиме смарт-часов\n\nПродвинутые тренировочные данные и информация о восстановлении\n\nПерсонализированные планы тренировок «Тренер Гармин»\n\nБолее 80 встроенных спортивных приложений\n\nИнтеллектуальные оповещения и бесконтактные платежи Garmin PayTM2",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1789378932.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789378934.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789378935.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789378937.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789378939.jpg"
+      ],
+      "category": "спорт",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
