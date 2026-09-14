@@ -456,6 +456,22 @@
       "category": "спорт",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 29,
+      "name": "Forerunner 170 Music красно-розовый с мангово-желтым ремешком",
+      "price": 37634,
+      "description": "Forerunner 170 Music – это специальные смарт-часы для бега с GPS, включающие персонализированные беговые планы для новичков и расширенные тренировочные показатели, которые помогут вам в достижении поставленных целей.\n\n\nЦветной сенсорный AMOLED-дисплей 1,2”\n\nПериод работы без подзарядки батареи до 10 дней в режиме смарт-часов\n\nПродвинутые тренировочные данные и информация о восстановлении\n\nПерсонализированные планы тренировок «Тренер Гармин»\n\nБолее 80 встроенных спортивных приложений\n\nМузыка на вашем запястье",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1789383718.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789383720.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789383723.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789383725.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789383727.jpg"
+      ],
+      "category": "спорт",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
