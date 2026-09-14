@@ -635,6 +635,25 @@
       "category": "тактические",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 39,
+      "name": "Instinct 3 - 45mm Solar Tactical Edition черный с черным ремешком",
+      "price": 50776,
+      "description": "Умные защищенные часы с GPS\n\nПРИКЛЮЧЕНИЕ ЗАКАНЧИВАЕТСЯ ТОЛЬКО ТОГДА, КОГДА ВЫ\nНАСЛАЖДАЙТЕСЬ НЕОГРАНИЧЕННЫМ СРОКОМ СЛУЖБЫ АККУМУЛЯТОРА БЛАГОДАРЯ СОЛНЕЧНОЙ ЗАРЯДКЕ\n\nСоздан для командования\nВинтовое крепление с металлическим обрамлением\n\nСПЕЦИАЛЬНЫЕ ТАКТИЧЕСКИЕ ВОЗМОЖНОСТИ\nРежим скрытности, режим «Мастер прыжков», проекция путевых точек и многое другое\n\nВОЗГЛАВЬТЕ АТАКУ\nСО ВСТРОЕННЫМ 3-ОСЕВЫМ КОМПАСОМ И МНОГОДИАПАЗОННЫМ GPS С ТЕХНОЛОГИЕЙ SATIQ\n\nОСВЕТИТЕ МИССИЮ\nСО ВСТРОЕННЫМ СВЕТОДИОДНЫМ ФОНАРИКОМ\n\nСОЗДАН ДЛЯ МИССИИ\nInstinct 3 — Tactical Edition — это защищённые смарт-часы с GPS, созданные для выполнения самых сложных задач. Они оснащены AMOLED-дисплеем, металлическим безелем и специальными тактическими функциями.\nМНОГОДИАПАЗОННЫЙ GPS С ТЕХНОЛОГИЕЙ SATIQ\nВКЛЮЧАЕТ СПЕЦИАЛИЗИРОВАННЫЕ ТАКТИЧЕСКИЕ ВОЗМОЖНОСТИ\nПОДРОБНАЯ ИНФОРМАЦИЯ О ЗДОРОВЬЕ И САМОЧУВСТВИИ\nВОЕННЫЙ СТАНДАРТ ПРОЧНОСТИ, УСТОЙЧИВОСТИ К ТЕРМИЧЕСКИМ ВОЗДЕЙСТВИЯМ, УДАРАМ И ВОДОЗАЩИТЕ\nЯркий встроенный светодиодный фонарик\n3-ОСЕВОЙ КОМПАС И МНОГОДИАПАЗОННЫЙ GPS",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1789390065.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789390068.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789390069.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789390072.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789390074.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789390076.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789390077.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789390080.jpg"
+      ],
+      "category": "тактические",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
