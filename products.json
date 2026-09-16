@@ -888,6 +888,24 @@
       "category": "тактические",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 53,
+      "name": "tactix 8 - 51 мм, Solar, Elite",
+      "price": 162433,
+      "description": "Идеальные тактические смарт-часы\nПоднимитесь на новый уровень с Tactix 8. Это идеальные тактические смарт-часы с дисплеем, заряжающимся от солнечной энергии, титановым безелем, сапфировым стеклом, внутренним динамиком и микрофоном для голосовых функций, а также водонепроницаемостью до 40 метров.\nПРОДОЛЖАЙТЕ РАБОТУ С СОЛНЕЧНОЙ ЗАРЯДКОЙ\nДО 48 ДНЕЙ РАБОТЫ ОТ АККУМУЛЯТОРА В РЕЖИМЕ СМАРТ-ЧАСОВ1\nСПЕЦИАЛЬНЫЕ ТАКТИЧЕСКИЕ ФУНКЦИИ, ТАКИЕ ХОДЬБА С РЮКЗАКОМ И APPLIED BALLISTICS ELITE SOLVER\nЯркий встроенный многоцветный светодиодный фонарик\nДОСТИГАЙТЕ НОВЫХ ГЛУБИН С РЕЙТИНГОМ ПОГРУЖЕНИЙ НА 40 МЕТРОВ\nДИНАМИК И МИКРОФОН ДЛЯ ГОЛОСОВЫХ СООБЩЕНИЙ И УПРАВЛЕНИЯ",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1789572238.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789572241.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789572243.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789572245.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789572247.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789572249.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789572251.jpg"
+      ],
+      "category": "тактические",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
