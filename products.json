@@ -995,6 +995,24 @@
       "category": "тактические",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 59,
+      "name": "Fenix 8 - 47 мм, Solar, Sapphire, титановый угольно-серый DLC с черным ремешком",
+      "price": 111421,
+      "description": "Эти премиальные спортивные смарт-часы с GPS созданы для серьезных спортсменов и любителей приключений, которые хотят выйти за пределы своих возможностей. Они рассчитаны на крупные запястья и оснащены расширенными функциями для силовых тренировок, возможностью погружения, внутренним динамиком и микрофоном для голосовых функций, встроенным светодиодным фонариком и солнечной зарядной линзой Power Sapphire™, обеспечивающей до 48 дней автономной работы.\nСтекло POWER SAPPHIRE с зарядкой от солнца продлевает срок службы аккумулятора\nДО 48 ДНЕЙ РАБОТЫ ОТ АККУМУЛЯТОРА В РЕЖИМЕ СМАРТ-ЧАСОВ\nДИНАМИК И МИКРОФОН ДЛЯ ГОЛОСОВЫХ СООБЩЕНИЙ И УПРАВЛЕНИЯ\nЯркий встроенный светодиодный фонарик\nСиловые тренировки для конкретных видов спорта\nКруглосуточный сервис для здоровья и хорошего самочувствия",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1789575697.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789575699.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789575701.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789575702.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789575704.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789575706.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789575708.jpg"
+      ],
+      "category": "тактические",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
