@@ -959,6 +959,23 @@
       "category": "тактические",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 57,
+      "name": "fenix 8 - 47 мм, AMOLED, Sapphire, Titanium, светло-серый, титановый ремешок",
+      "price": 146520,
+      "description": "БУДЬТЕ БЕЗГРАНИЧНЫ\nЭти премиальные спортивные GPS-часы созданы для серьезных спортсменов и любителей приключений, которые хотят выйти за пределы своих возможностей. Они оснащены расширенными функциями для силовых тренировок, возможностью погружения, внутренним динамиком и микрофоном для голосовых функций, встроенным светодиодным фонариком и многим другим.\nЯркий и чёткий AMOLED-дисплей\nДО 16 ДНЕЙ РАБОТЫ ОТ АККУМУЛЯТОРА В РЕЖИМЕ СМАРТЧАСОВ\nДИНАМИК И МИКРОФОН ДЛЯ ГОЛОСОВЫХ СООБЩЕНИЙ И УПРАВЛЕНИЯ\nЯркий встроенный светодиодный фонарик\nСиловые тренировки для конкретных видов спорта\n24/7 сервис для здоровья и хорошего самочувствия",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1789574367.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789574369.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789574371.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789574373.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789574376.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789574378.jpg"
+      ],
+      "category": "тактические",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
