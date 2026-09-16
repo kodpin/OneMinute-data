@@ -1121,6 +1121,24 @@
       "category": "тактические",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 66,
+      "name": "fenix 8 - 51 мм, AMOLED, Sapphire, угольно-серый DLC, пепельно-черный силиконовый ремешок",
+      "price": 133111,
+      "description": "Будьте безграничными\nЭти спортивные смарт-часы премиум-класса с GPS созданы специально для серьезных спортсменов и любителей активного отдыха, которые хотят расширить границы своих возможностей. Данная модель, созданная для пользователей с большей окружностью запястья, включает расширенные функции для силовых тренировок, режим дайвинга, встроенный динамик и микрофон для голосовых функций, светодиодный фонарик и прочее.\n\n\nЯркий и четкий дисплей AMOLED\n\nДо 29 дней работы от батареи в режиме смарт-часов\n\nДинамик и микрофон для голосовых сообщений1 и управления\n\nЯркий встроенный светодиодный фонарик\n\nСпециальные силовые тренировки\n\nКруглосуточные функции для наблюдения за здоровьем",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1789581685.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789581687.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789581690.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789581691.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789581693.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789581696.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789581698.jpg"
+      ],
+      "category": "тактические",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
