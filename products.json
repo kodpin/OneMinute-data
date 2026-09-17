@@ -1587,6 +1587,23 @@
       "category": "спорт",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 93,
+      "name": "Forerunner 265 белый 46мм",
+      "price": 36477,
+      "description": "Чёрный корпус с корпусом из белого камня и силиконовым ремешком белого/приливного синего цвета\nРасширенные показатели эффективности тренировок и восстановления\nSATIQ™ и многодиапазонный GPS\nСенсорный экран и кнопки\nМУЗЫКА НА ВАШЕМ ЗАПЯСТЬЕ\n1,3-дюймовый цветной AMOLED-дисплей\nДО 20 ЧАСОВ РАБОТЫ ОТ АККУМУЛЯТОРА В РЕЖИМЕ GPS",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1789637018.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789637020.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789637022.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789637024.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789637026.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789637028.jpg"
+      ],
+      "category": "спорт",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
