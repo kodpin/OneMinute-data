@@ -1310,6 +1310,24 @@
       "category": "для жизни",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 77,
+      "name": "vivomove Trend с безелем серого цвета с черным корпусом и силиконовым ремешком",
+      "price": 46500,
+      "description": "Гибридные смарт-часы vivomove® Trend сочетают в себе классический аналоговый стиль и основные интеллектуальные функции, такие как оповещения от смартфона и бесконтактные платежи Garmin Pay™.\n\n\nКлассический аналоговый стиль.\n\nПериод работы батареи до 5 дней.\n\nКоснитесь экрана или проведите по нему пальцем для активизации скрытого сенсорного дисплея. Пусть это будет вашим маленьким секретом.\n\nПолучите доступ к текстовым сообщениям, вызовам и напоминаниям календаря при сопряжении со смартфоном.\n\nУзнайте лучше собственный организм: следите за уровнем стресса, сном, уровнями энергии и т.д.\n\nИспользуйте часы для удобной бесконтактной оплаты покупок у участвующих поставщиков.",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1789628973.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789628975.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789628978.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789628979.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789628982.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789628983.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789628985.jpg"
+      ],
+      "category": "для жизни",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
