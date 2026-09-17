@@ -1397,6 +1397,24 @@
       "category": "для жизни",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 82,
+      "name": "Venu X1 черные с серой титановой крышкой, черным нейлоновым ремешком ComfortFit",
+      "price": 82900,
+      "description": "Venu X1 сочетает в себе практичные функции, которые должны быть в умных часах, с лёгкими материалами и расширенными возможностями для отслеживания состояния здоровья и физической формы. Когда придёт время тренироваться, восстанавливаться или исследовать что-то новое, доверьтесь этим умным часам.\n2-дюймовый легко читаемый AMOLED-дисплей\nКорпус часов с устойчивым к царапинам сапфировым стеклом\nДО 8 ДНЕЙ РАБОТЫ ОТ АККУМУЛЯТОРА В РЕЖИМЕ СМАРТ-ЧАСОВ\nПОДРОБНАЯ ИНФОРМАЦИЯ О ЗДОРОВЬЕ И САМОЧУВСТВИИ\nСОВЕРШАЙТЕ И ПРИНИМАЙТЕ ЗВОНКИ С ПОМОЩЬЮ ГОЛОСОВОГО ПОМОЩНИКА И МИКРОФОНА\nЯркий встроенный светодиодный фонарик",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1789630864.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789630866.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789630868.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789630870.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789630872.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789630874.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789630876.jpg"
+      ],
+      "category": "для жизни",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
