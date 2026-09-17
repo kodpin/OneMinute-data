@@ -1604,6 +1604,24 @@
       "category": "спорт",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 94,
+      "name": "Descent Mk3i 43 мм, титановый, угольно-серый, DLC, черный силиконовый ремешок",
+      "price": 128989,
+      "description": "Этот современный дайвинговый компьютер и смарт-часы включает технологию связи SubWaveTM, наблюдение за состоянием дайвера и технологию воздушной интеграции. Устройство предлагает инновации от «Гармин», чтобы помочь вам в подготовке к погружению, а также функции для мультиспортивных тренировок и интеллектуальные функции для активной жизни между погружениями.\n\n\nSubWave – обмен сообщениями с дайверами на основе сонара (скоро ожидается, необходимо обновление ПО)\n\nПериод работы от батареи до 30 часов в дайверском режиме\n\nНесколько режимов погружения\n\nЦветные карты DiveViewTM с контурами глубины и точками погружения\n\nИнструмент «Готовность к погружению» для получения данных о вашей подготовке\n\nМаксимальная глубина погружения для часов составляет 200 метров",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1789637774.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789637776.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789637778.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789637780.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789637782.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789637784.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789637786.jpg"
+      ],
+      "category": "спорт",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
