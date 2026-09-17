@@ -1639,6 +1639,23 @@
       "category": "спорт",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 96,
+      "name": "Descent Mk3i 43 мм, титановый, угольно-серый, DLC, черный силиконовый ремешок, комплект Descent T2 Transceiver",
+      "price": 161161,
+      "description": "Этот современный дайвинговый компьютер и смарт-часы включает технологию связи SubWaveTM, наблюдение за состоянием дайвера и технологию воздушной интеграции, в комплекте с датчиком Descent T2\n\nGARMIN\n\nDescent Mk3i 43 мм, титановый, угольно-серый, DLC, черный силиконовый ремешок, комплект Descent T2 Transceiver\nЭтот современный дайвинговый компьютер и смарт-часы включает технологию связи SubWaveTM, наблюдение за состоянием дайвера и технологию воздушной интеграции, в комплекте с датчиком Descent T2\n\nSubWave – обмен сообщениями с дайверами на основе сонара (скоро ожидается, необходимо обновление ПО)\n\nПериод работы от батареи до 30 часов в дайверском режиме\n\nНесколько режимов погружения\n\nЦветные карты DiveViewTM с контурами глубины и точками погружения\n\nИнструмент «Готовность к погружению» для получения данных о вашей подготовке\n\nМаксимальная глубина погружения для часов составляет 200 метров",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1789657634.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789657636.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789657639.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789657641.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789657644.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789657646.jpg"
+      ],
+      "category": "спорт",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
