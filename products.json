@@ -1415,6 +1415,25 @@
       "category": "для жизни",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 83,
+      "name": "Venu X1 золотистые с титановой крышкой, серым нейлоновым ремешком",
+      "price": 78400,
+      "description": "Venu X1 сочетает в себе практичные функции, которые должны быть в умных часах, с лёгкими материалами и расширенными возможностями для отслеживания состояния здоровья и физической формы. Когда придёт время тренироваться, восстанавливаться или исследовать что-то новое, доверьтесь этим умным часам.\n2-дюймовый легко читаемый AMOLED-дисплей\nКорпус часов с устойчивым к царапинам сапфировым стеклом\nДО 8 ДНЕЙ РАБОТЫ ОТ АККУМУЛЯТОРА В РЕЖИМЕ СМАРТ-ЧАСОВ\nПОДРОБНАЯ ИНФОРМАЦИЯ О ЗДОРОВЬЕ И САМОЧУВСТВИИ\nСОВЕРШАЙТЕ И ПРИНИМАЙТЕ ЗВОНКИ С ПОМОЩЬЮ ГОЛОСОВОГО ПОМОЩНИКА И МИКРОФОНА\nЯркий встроенный светодиодный фонарик",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1789631131.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789631133.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789631135.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789631137.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789631139.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789631141.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789631143.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789631144.jpg"
+      ],
+      "category": "для жизни",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
