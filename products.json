@@ -1519,6 +1519,23 @@
       "category": "спорт",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 89,
+      "name": "Forerunner 265S розовый 42мм",
+      "price": 34100,
+      "description": "Чёрный корпус с нежно-розовым чехлом и светло-розовым/пудрово-серым силиконовым ремешком\n1,1-дюймовый цветной AMOLED-дисплей\nДО 24 ЧАСОВ РАБОТЫ ОТ АККУМУЛЯТОРА В РЕЖИМЕ GPS\nРасширенные показатели эффективности тренировок и восстановления\nSATIQ™ и многодиапазонный GPS\nСенсорный экран и кнопки\nМУЗЫКА НА ВАШЕМ ЗАПЯСТЬЕ",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1789634873.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789634875.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789634877.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789634879.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789634881.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789634884.jpg"
+      ],
+      "category": "спорт",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
