@@ -1536,6 +1536,23 @@
       "category": "спорт",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 90,
+      "name": "Forerunner 265S белый 42мм",
+      "price": 37000,
+      "description": "Чёрный корпус с белым камнем и силиконовый ремешок с белым камнем/нео-тропическим узором\n1,1-дюймовый цветной AMOLED-дисплей\nДО 24 ЧАСОВ РАБОТЫ ОТ АККУМУЛЯТОРА В РЕЖИМЕ GPS\nРасширенные показатели эффективности тренировок и восстановления\nSATIQ™ и многодиапазонный GPS\nСенсорный экран и кнопки\nМУЗЫКА НА ВАШЕМ ЗАПЯСТЬЕ",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1789635315.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789635317.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789635319.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789635321.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789635323.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789635325.jpg"
+      ],
+      "category": "спорт",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
