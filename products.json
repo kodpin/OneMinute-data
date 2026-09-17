@@ -1242,6 +1242,23 @@
       "category": "для жизни",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 73,
+      "name": "Lily 2 с безелем цвета кремовое золото, силиконовый ремешок цвета кокоса",
+      "price": 37811,
+      "description": "Модель Lily 2 Active, включающая скрытый дисплей, узорчатое стекло и важные функции для здоровья и фитнеса, - это нечто большее, чем кажется на первый взгляд. Эти маленькие стильные смарт-часы со встроенным GPS-приемником созданы для того, чтобы помочь вам выглядеть и чувствовать себя хорошо – внутри и снаружи.\n\nСтильное узорчатое стекло скрывает яркий сенсорный дисплей\n\nВстроенный GPS-приемник, отслеживание показателей активности и спортивные приложения\n\nПериод работы без подзарядки – до 9 дней\n\nМаленькие модные смарт-часы в металлическом корпусе с двумя кнопками\n\nПyльсометр измеряет частоту пульса 24/7\n\nИнтеллектуальные оповещения при установке сопряжения со смартфоном iPhone® или AndroidTM",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1789627275.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789627277.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789627279.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789627281.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789627282.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789627284.jpg"
+      ],
+      "category": "для жизни",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
