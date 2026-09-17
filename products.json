@@ -1570,6 +1570,23 @@
       "category": "спорт",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 92,
+      "name": "Forerunner 265 аква 46мм",
+      "price": 36230,
+      "description": "Black Bezel с чехлом Aqua и силиконовым ремешком Aqua/Black\nРасширенные показатели эффективности тренировок и восстановления\nSATIQ™ и многодиапазонный GPS\nСенсорный экран и кнопки\nМУЗЫКА НА ВАШЕМ ЗАПЯСТЬЕ\n1,3-дюймовый цветной AMOLED-дисплей\nДО 20 ЧАСОВ РАБОТЫ ОТ АККУМУЛЯТОРА В РЕЖИМЕ GPS",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1789636290.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789636292.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789636294.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789636296.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789636298.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789636300.jpg"
+      ],
+      "category": "спорт",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
