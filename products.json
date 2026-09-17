@@ -1451,6 +1451,23 @@
       "category": "спорт",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 85,
+      "name": "forerunner 70 белые",
+      "price": 26840,
+      "description": "Простые в использовании беговые смарт-часы Forerunner 70 с GPS-приемником включают в себя все необходимое для начала занятий бегом. Устройство предлагает функции для поддержки бегунов начального уровня.\n\nЦветной сенсорный AMOLED-дисплей 1,2”\n\nПериод работы без подзарядки батареи до 13 дней в режиме смарт-часов\n\nПродвинутые тренировочные данные и информация о восстановлении\n\nПерсонализированные планы тренировок «Тренер Гармин»\n\nБолее 80 встроенных спортивных приложений\n\nВстроенный GPS для определения времени, расстояния и темпа",
+      "image": [
+        "https://kodpin.github.io/OneMinute/images/watch_1789631956.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789631958.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789631960.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789631962.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789631963.jpg",
+        "https://kodpin.github.io/OneMinute/images/watch_1789631965.jpg"
+      ],
+      "category": "спорт",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
