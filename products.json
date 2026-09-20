@@ -1706,6 +1706,16 @@
       "category": "спорт",
       "discount_percent": 0,
       "discount_end": ""
+    },
+    {
+      "id": 100,
+      "name": "Хуй",
+      "price": 1,
+      "description": "Хуй Наны",
+      "image": "https://kodpin.github.io/OneMinute/images/watch_1789941230.jpg",
+      "category": "спорт",
+      "discount_percent": 0,
+      "discount_end": ""
     }
   ],
   "settings": {
